@@ -1,5 +1,5 @@
 # Amoled for GIMP
-Amoled theme for GIMP that replaces the main dark theme
+Amoled theme for GIMP that replaces the main dark theme for when the default theme is too bright.
 
 # How to install:
 
