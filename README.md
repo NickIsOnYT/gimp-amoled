@@ -3,6 +3,8 @@ Amoled theme for GIMP that replaces the main dark theme for when the default the
 
 Download GIMP here: https://gimp.org/downloads/
 
+Note: you must reinstall the theme with each update
+
 # How to install:
 
 GIMP 3:
