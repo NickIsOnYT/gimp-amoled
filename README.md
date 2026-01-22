@@ -1,9 +1,9 @@
 # Amoled for GIMP
-An AMOLED theme for GIMP that replaces the main dark theme for times when the default theme is too bright.
+An AMOLED theme for GIMP that replaces the main dark theme. (for times when the default theme is too bright.)
 
 Download GIMP here: https://gimp.org/downloads/
 
-Note: you must reinstall the theme with each update
+Note: You must reinstall the theme with each update
 
 # How to install:
 
