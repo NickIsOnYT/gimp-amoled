@@ -6,8 +6,8 @@ Download GIMP here: https://gimp.org/downloads/
 Note: You must reinstall the theme with each update
 
 # How to install:
-
 GIMP 3:
+
 Windows: paste and replace files in
 `C:\Users\your_user\AppData\Local\Programs\GIMP 3\share\gimp\3.0\themes\Default`
 
